@@ -1,0 +1,19 @@
+body {
+    background-color : #b2dba1;
+}
+
+table img {
+    max-width: 200px;
+    height: auto;
+}
+
+form h4{
+    color: red;
+}
+form div+div{
+    margin-top: 1em;
+}
+
+input:focus{
+    boder-color: #000;
+}
